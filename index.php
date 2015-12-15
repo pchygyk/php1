@@ -1,5 +1,6 @@
 <?php
-phpinfo();
+ echo "Сегодня - ".date("d F Y")."<br>";
+ echo "Текущее время - ".date("H:i:s");
 ?>
 
 
